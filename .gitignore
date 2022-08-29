@@ -1,3 +1,6 @@
+# Vim edting file
+*.swp
+
 # Compiled class file
 *.class
 
