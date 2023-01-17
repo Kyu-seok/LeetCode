@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij,macos,python,elixir,c,c++,rust,go
 *.xlsx
 Table.csv
+local_src/
 
 ### C ###
 # Prerequisites
