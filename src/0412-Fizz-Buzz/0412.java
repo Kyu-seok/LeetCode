@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Solution {
 
 	public List<String> fizzBuzz(int n) {
